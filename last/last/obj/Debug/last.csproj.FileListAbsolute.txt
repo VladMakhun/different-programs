@@ -1,0 +1,10 @@
+D:\c#\last\last\bin\Debug\last.exe.config
+D:\c#\last\last\bin\Debug\last.exe
+D:\c#\last\last\bin\Debug\last.pdb
+D:\c#\last\last\obj\Debug\last.csproj.AssemblyReference.cache
+D:\c#\last\last\obj\Debug\last.Form1.resources
+D:\c#\last\last\obj\Debug\last.Properties.Resources.resources
+D:\c#\last\last\obj\Debug\last.csproj.GenerateResource.cache
+D:\c#\last\last\obj\Debug\last.csproj.CoreCompileInputs.cache
+D:\c#\last\last\obj\Debug\last.exe
+D:\c#\last\last\obj\Debug\last.pdb
